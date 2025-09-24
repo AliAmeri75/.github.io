@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="/assets/images/profile.jpg" alt="Your headshot" width="220" style="border-radius:12px;">
+<img src="images/IMG_4263.jpg" alt="Your headshot" width="220" style="border-radius:12px;">
 
 # Mohammadali Ameri Fard Nasrand
 _PhD Candidate, University of Alberta
