@@ -1,7 +1,9 @@
 # Site basics
 title: Your Name
-description: PhD Candidate | Research focus, keywords, etc.
-url: https://YOURUSERNAME.github.io
+description: PhD Candidate | Structural Eng, Risk & Reliability, Structural Health Monitoring.
+url: "https://AliAmeri75.github.io"
+baseurl: ""              # exactly empty for a personal site
+github_username: "AliAmeri75"
 
 # Use GitHub’s Minimal theme via remote_theme
 remote_theme: pages-themes/minimal@v0.2.0
@@ -13,3 +15,5 @@ header_pages:
   - publications.md
   - projects.md
   - contact.md
+
+  
