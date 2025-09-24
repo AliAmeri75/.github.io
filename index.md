@@ -5,8 +5,8 @@ title: Home
 
 <img src="/assets/images/profile.jpg" alt="Your headshot" width="220" style="border-radius:12px;">
 
-# Your Name
-_PhD Candidate, University / Lab_
+# Mohammadali Ameri Fard Nasrand
+_PhD Candidate, University of Alberta
 
 **Research interests:** structural health monitoring, data-driven control, RL for I&M, etc.
 
